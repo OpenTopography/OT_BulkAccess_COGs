@@ -1,0 +1,13 @@
+name: COGS
+channels:
+  - defaults
+  - conda-forge  
+dependencies:
+  - gdal==3.2.0
+  - jupyterlab
+  - awscli
+  - pip
+  - pip:
+    - fiona
+    - rasterio
+    - wget
