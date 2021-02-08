@@ -1,4 +1,4 @@
-#OpenTopography Jupyter Notebook Examples
+# OpenTopography Jupyter Notebook Examples
 
 This repo contains some example jupyter notebooks for working with
 [OpenTopography data](https://opentopography.org/).
