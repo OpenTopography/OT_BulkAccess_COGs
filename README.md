@@ -1,10 +1,12 @@
+[![NSF-1948997](https://img.shields.io/badge/NSF-1948997-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=1948997) 
+[![NSF-1948994](https://img.shields.io/badge/NSF-1948994-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=1948994)
+[![NSF-1948857](https://img.shields.io/badge/NSF-1948857-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=1948857)
+
 # OpenTopography Jupyter Notebook Examples
 
-This repo contains some example jupyter notebooks for working with
-[OpenTopography data](https://opentopography.org/).
+This repo contains some example jupyter notebooks for working with [OpenTopography data](https://opentopography.org/).
 
-To work interactively with the notebooks [click here](https://mybinder.org/v2/gh/OpenTopography/Jupyter/570232f49bf197a4f9411f52640985e4da2bbc13)
+* OT_COGs_Data.ipynb - OpenTopography has recently converted its entire global dataset collection to COGs. This notebook example highlightes the power of Cloud Optimized Geotiffs (COGs) and how they can be used to reduce download filesizes as well as increase data access speeds.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenTopography/Jupyter/HEAD?filepath=OT_COGs_Data.ipynb)
 
 Email: info@opentopography.org with any questions or comments
-
-OpenTopography is funded by National Science Foundation Award Numbers: 1948997, 1948994 & 1948857
