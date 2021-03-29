@@ -8,6 +8,7 @@ dependencies:
   - pip
   - pip:
     - fiona
+    - jupyterlab
     - rasterio
     - wget
     - pyproj
