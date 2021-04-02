@@ -6,7 +6,7 @@
 
 This repo contains some example jupyter notebooks for working with [OpenTopography data](https://opentopography.org/) and [APIs](https://opentopography.org/developers#API).
 
-* [OT_01_BulkAccessCOGs.ipynb](https://github.com/OpenTopography/Jupyter/blob/main/OT_01_BulkAccessCOGs.ipynb) - OpenTopography has recently converted its entire global dataset collection to COGs. This notebook example highlightes the power of Cloud Optimized Geotiffs (COGs) and how they can be used to reduce download filesizes as well as increase data access speeds.
+* [OT_01_BulkAccessCOGs.ipynb](https://github.com/OpenTopography/Jupyter/blob/main/OT_01_BulkAccessCOGs.ipynb) - OpenTopography has recently converted its entire global dataset collection to COGs. This notebook example highlights the power of Cloud Optimized Geotiffs (COGs) and how they can be used to reduce download filesizes as well as increase data access speeds.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenTopography/Jupyter/main?filepath=OT_01_BulkAccessCOGs.ipynb)
 
 Email: info@opentopography.org with any questions or comments
