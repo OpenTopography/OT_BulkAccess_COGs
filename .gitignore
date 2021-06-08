@@ -1,1 +1,12 @@
 .ipynb_checkpoints
+*.tif
+*.zip
+*.shp
+*.prj
+*.dbf
+*.tif
+*.cpg
+*.shx 
+*.zip
+ne_10m_rivers_lake_centerlines.*
+ColoradoRiver_AOI.*
