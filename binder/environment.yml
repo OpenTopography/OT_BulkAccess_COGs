@@ -4,7 +4,7 @@ channels:
 dependencies:
   - gdal==3.2.0
   - awscli
-  - numpy-stl:
+  - numpy-stl
   - pip
   - pip:
     - fiona
