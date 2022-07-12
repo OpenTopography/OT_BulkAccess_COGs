@@ -12,7 +12,7 @@ authors:
 - family-names: "Phan"
   given-names: "Minh"
   orcid: https://orcid.org/0000-0002-2806-5450
-title: "OpenTopography Jupyter Notebook Examples"
+title: "Accessing OpenTopography’s Cloud Optimized GeoTIFF (COG) Global Datasets"
 version: 1.0.0
 date-released: 2021-06-08
-repository-code: "https://github.com/OpenTopography/Jupyter"
+repository-code: "https://github.com/OpenTopography/OT_BulkAccess_COGs"
